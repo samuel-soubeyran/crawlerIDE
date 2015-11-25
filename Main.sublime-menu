@@ -1,0 +1,29 @@
+[{
+	"id": "CrawlerDSL",
+	"caption": "Crawler DSL",
+	"children":[
+	{ 
+		"caption" : "run crawler",
+		"command" : "crawler_run"
+	},
+	{ 
+		"caption" : "stop crawler",
+		"command" : "crawler_stop"
+	},
+	{ 
+		"caption" : "step",
+		"command" : "crawler_next"
+	},
+	{ 
+		"caption" : "remove current step",
+		"command" : "crawler_delete"
+	},
+	{ 
+		"caption" : "redo current step",
+		"command" : "crawler_redo"
+	},
+	{ 
+		"caption" : "reload script",
+		"command" : "crawler_reload"
+	}]
+}]

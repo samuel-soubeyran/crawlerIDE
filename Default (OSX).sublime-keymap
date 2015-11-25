@@ -1,0 +1,19 @@
+[{
+	"keys": ["ctrl+shift+r"],
+	"command": "crawler_run"
+},{
+	"keys": ["ctrl+shift+s"],
+	"command": "crawler_stop"
+},{
+	"keys": ["ctrl+shift+a"],
+	"command": "crawler_next"
+},{
+	"keys": ["ctrl+shift+d"],
+	"command": "crawler_delete"
+},{
+	"keys": ["ctrl+shift+z"],
+	"command": "crawler_redo"
+},{
+	"keys": ["super+ctrl+shift+z"],
+	"command": "crawler_reload"
+}]
